@@ -1,13 +1,13 @@
 # Examenes Resueltos
 Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en Ciencias de la Computación**, en FaMAF, UNC.
 
-## Materias en Curso
+## Materias en Curso (3)
   * Segundo Año
     * 2C
       * [**Introducción a la Logica y la Computación**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20INTRO-LOG)
       * [**Sistemas Operativos**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20SIST-OP)
       * [**Probabilidad y Estadística**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20PROB-Y-EST)
-## Materias Completadas
+## Materias Completadas (9)
   * Primer Año
     * 1C
       * [**Matemática Discreta I**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/1A1C%20DISCRETA-I)
@@ -25,7 +25,7 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
   * Otras
     * Curso de Nivelación
     * Módulo de Idioma Inglés
-## Materias Restantes
+## Materias Restantes (14)
   * Tercer Año
     * 1C
       * Matemática Discreta II
