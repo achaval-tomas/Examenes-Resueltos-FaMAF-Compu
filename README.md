@@ -7,7 +7,7 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
       * [**Introducción a la Logica y la Computación**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20INTRO-LOG)
       * [**Sistemas Operativos**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20SIST-OP)
       * [**Probabilidad y Estadística**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A2C%20PROB-Y-EST)
-## Materias Completadas:
+## Materias Completadas
   * Primer Año
     * 1C
       * [**Matemática Discreta I**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/1A1C%20DISCRETA-I)
@@ -24,7 +24,7 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
       * [**Análisis Numérico I**](https://github.com/achaval-tomas/Examenes-Resueltos-FaMAF-Compu/tree/main/2A1C%20ANALISIS-NUMERICO-I)
   * Otras
     * Curso de Nivelación
-    * Módulo de Idioma Inglés 
+    * Módulo de Idioma Inglés
 ## Materias Restantes
   * Tercer Año
     * 1C
