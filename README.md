@@ -7,7 +7,7 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
       * [**Introducción a la Logica y la Computación**](/2A2C%20INTRO-LOG)
       * [**Sistemas Operativos**](/2A2C%20SIST-OP)
       * [**Probabilidad y Estadística**](/2A2C%20PROB-Y-EST)
-## Materias Completadas (9)
+## Materias Completadas (9+2*)
   * Primer Año
     * 1C
       * [**Matemática Discreta I**](/1A1C%20DISCRETA-I)
@@ -22,7 +22,7 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
       * [**Algoritmos y Estructuras de Datos II**](/2A1C%20AYED-II)
       * [**Organización del Computador**](/2A1C%20ORG-COMP)
       * [**Análisis Numérico I**](/2A1C%20ANALISIS-NUMERICO-I)
-  * Otras
+  * *Otras
     * [**Curso de Nivelación**](/CURSO-NIVELACION)
     * Módulo de Idioma Inglés
 ## Materias Restantes (14)
