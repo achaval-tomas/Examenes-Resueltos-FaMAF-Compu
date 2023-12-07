@@ -1,13 +1,9 @@
 # Examenes Resueltos
 Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en Ciencias de la Computación**, en FaMAF, UNC.
 
-## Materias en Curso (3)
-  * Segundo Año
-    * 2C
-      * [**Introducción a la Logica y la Computación**](/2A2C%20INTRO-LOG)
-      * [**Sistemas Operativos**](/2A2C%20SIST-OP)
-      * [**Probabilidad y Estadística**](/2A2C%20PROB-Y-EST)
-## Materias Completadas (9+2*)
+## Materias en Curso (0)
+
+## Materias Completadas (12+2*)
   * Primer Año
     * 1C
       * [**Matemática Discreta I**](/1A1C%20DISCRETA-I)
@@ -22,6 +18,10 @@ Un repo para archivar todos _**mis**_ examenes resueltos de la **Licenciatura en
       * [**Algoritmos y Estructuras de Datos II**](/2A1C%20AYED-II)
       * [**Organización del Computador**](/2A1C%20ORG-COMP)
       * [**Análisis Numérico I**](/2A1C%20ANALISIS-NUMERICO-I)
+    * 2C
+      * [**Introducción a la Logica y la Computación**](/2A2C%20INTRO-LOG)
+      * [**Sistemas Operativos**](/2A2C%20SIST-OP)
+      * [**Probabilidad y Estadística**](/2A2C%20PROB-Y-EST)
   * *Otras
     * [**Curso de Nivelación**](/CURSO-NIVELACION)
     * Módulo de Idioma Inglés
