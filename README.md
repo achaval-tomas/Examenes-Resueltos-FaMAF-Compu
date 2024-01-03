@@ -1,7 +1,9 @@
 # Examenes Resueltos FaMAF Computación
 Este es un repo para archivar todos **_mis_ examenes resueltos** de la **Licenciatura en Ciencias de la Computación**, en FaMAF, UNC.
 
-Repo con **enunciados** de más exámenes: [ExamenesViejos-FaMAF-Computacion](https://github.com/ExamenesViejos-FaMAF-Computacion)
+Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
+
+Repo con **_mis_ labs completos** de algunas materias: [**Labs-Completos-Famaf-Compu**](https://github.com/achaval-tomas/Labs-Completos-FaMAF-Compu)
 
 ## Materias en Curso (0)
 
