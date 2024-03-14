@@ -6,9 +6,9 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
 Repo con **_mis_ labs completos** de algunas materias: [**Labs-Completos-Famaf-Compu**](https://github.com/achaval-tomas/Labs-Completos-FaMAF-Compu)
 <strong>
 ## Materias en Curso (3)
-   * Matemática Discreta II
-   * Paradigmas de Programación
-   * Redes y Sistemas Distribuidos
+   * [Matemática Discreta II](/3A1C%20DISCRETA-II)
+   * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
+   * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SIST)
 ## Materias Completadas (12+2*)
   * Primer Año
     * 1C
