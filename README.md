@@ -29,7 +29,7 @@ Repo con **_mis_ labs completos** de algunas materias: [**Labs-Completos-Famaf-C
       * [Sistemas Operativos](/2A2C%20SIST-OP)
       * [Probabilidad y Estadística](/2A2C%20PROB-Y-EST)
   * *Otras
-    * [Curso de Nivelación](/CURSO-NIVELACION)
+    * [Curso de Nivelación](/0A0C%20CURSO-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 ## Materias Restantes (11)
   * Tercer Año
