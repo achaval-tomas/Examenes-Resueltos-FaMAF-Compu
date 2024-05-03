@@ -8,7 +8,7 @@ Repo con **_mis_ labs completos** de algunas materias: [**Labs-Completos-Famaf-C
 ## Materias en Curso (3)
    * [Matemática Discreta II](/3A1C%20DISCRETA-II)
    * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
-   * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SIST)
+   * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SISTEMAS)
 ## Materias Completadas (12+2*)
   * Primer Año
     * 1C
@@ -29,7 +29,7 @@ Repo con **_mis_ labs completos** de algunas materias: [**Labs-Completos-Famaf-C
       * [Sistemas Operativos](/2A2C%20SIST-OP)
       * [Probabilidad y Estadística](/2A2C%20PROB-Y-EST)
   * *Otras
-    * [Curso de Nivelación](/0A0C%20CURSO-NIVELACION)
+    * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 ## Materias Restantes (11)
   * Tercer Año
