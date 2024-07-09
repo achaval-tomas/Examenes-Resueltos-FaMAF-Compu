@@ -5,9 +5,9 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
-## Materias en Curso (1)
-   * [Matemática Discreta II](/3A1C%20DISCRETA-II)
-## Materias Completadas (14+2*)
+## Materias en Curso (0)
+
+## Materias Completadas (15+2*)
   * Primer Año
     * 1C
       * [Matemática Discreta I](/1A1C%20DISCRETA-I)
@@ -30,6 +30,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
     * 1C
       * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
       * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SISTEMAS)
+      * [Matemática Discreta II](/3A1C%20DISCRETA-II)
   * *Otras
     * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
