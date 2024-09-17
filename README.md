@@ -5,8 +5,10 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
-## Materias en Curso (0)
-
+## Materias en Curso (3)
+  * [Arquitectura de Computadoras](/3A2C%20ARQUI-DE-COMPUTADORAS)
+  * [Bases de Datos](/3A2C%20BASES-DE-DATOS)
+  * [Ingeniería del Software I](/3A2C%20ING-SOFT-I)
 ## Materias Completadas (15+2*)
   * Primer Año
     * 1C
@@ -34,12 +36,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
   * *Otras
     * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
-## Materias Restantes (11)
-  * Tercer Año
-    * 2C
-      * Ingeniería del Software I
-      * Bases de Datos
-      * Arquitectura de Computadoras
+## Materias Restantes (8)
   * Cuarto Año
     * 1C
       * Lenguajes Formales y Computabilidad
