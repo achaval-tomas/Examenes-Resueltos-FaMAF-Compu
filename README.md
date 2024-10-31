@@ -13,7 +13,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
   * Primer Año
     * 1C
       * [Matemática Discreta I](/1A1C%20DISCRETA-I)
-      * [Introducción a los Algoritmos](/1A1C%20INTRO-ALG)
+      * [Introducción a los Algoritmos](/1A1C%20INTRO-ALGORITMOS)
       * [Análisis Matemático I](/1A1C%20AN-MAT-I)
     * 2C
       * [Algoritmos y Estructuras de Datos I](/1A2C%20AYED-I)
@@ -25,9 +25,9 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Organización del Computador](/2A1C%20ORG-COMP)
       * [Análisis Numérico I](/2A1C%20ANALISIS-NUMERICO-I)
     * 2C
-      * [Introducción a la Logica y la Computación](/2A2C%20INTRO-LOG)
-      * [Sistemas Operativos](/2A2C%20SIST-OP)
-      * [Probabilidad y Estadística](/2A2C%20PROB-Y-EST)
+      * [Introducción a la Logica y la Computación](/2A2C%20INTRO-LOGICA)
+      * [Sistemas Operativos](/2A2C%20SISTEMAS-OPERATIVOS)
+      * [Probabilidad y Estadística](/2A2C%20PROB-Y-ESTADISTICA)
   * Tercer Año
     * 1C
       * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
