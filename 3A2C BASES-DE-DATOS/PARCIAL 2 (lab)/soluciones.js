@@ -1,3 +1,5 @@
+// PARCIAL 2 LAB BDD 2024, Tomás Achával - NOTA: 9
+
 use("university")
 
 
@@ -22,7 +24,7 @@ db.grades.find(
     {
         _id: 0
     }
-)
+) // CORRECCIÓN: me faltó el sort
 
 
 // Ejercicio 2
@@ -42,7 +44,7 @@ db.grades.aggregate([
             avg_score: { $avg: "$scores.score" },
         }
     },
-    { $sort: { student: 1, class: 1 } }
+    { $sort: { student: 1, class: 1 } } // CORRECCIÓN: acá era student_id y class_id
 ])
 
 

@@ -1,4 +1,4 @@
--- PARCIAL 1 LAB BDD 2024, Tomás Achával
+-- PARCIAL 1 LAB BDD 2024, Tomás Achával - NOTA: 9
 -- Ejercicio 1
 SELECT properties.*
 FROM properties
@@ -94,7 +94,7 @@ CREATE ROLE `admin`;
 GRANT CREATE ON airbnb_like_db.properties TO `admin`;
 GRANT UPDATE (`status`) ON airbnb_like_db.property_availability TO `admin`;
 
--- Ejercicio 7
+-- Ejercicio 7 (mal, querían mas detalle)
 -- Por que la propiedad de durabilidad hace referencia a la 
 -- durabilidad de los EFECTOS de una transacción, 
 -- no de los datos de la base.
