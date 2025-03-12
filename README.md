@@ -41,7 +41,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
   * *Otras
     * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
-## Materias Restantes (8)
+## Materias Restantes (6)
   * Cuarto Año
     * 2C
       * Lógica
@@ -51,6 +51,6 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * Lenguajes y Compiladores
       * Ingeniería del Software II
     * 2C
-      * Optativas
+      * Optativas (1)
       * Trabajo Especial
 </strong>
