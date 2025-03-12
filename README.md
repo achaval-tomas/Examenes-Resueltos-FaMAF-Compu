@@ -20,7 +20,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
   * Segundo Año
     * 1C
       * [Algoritmos y Estructuras de Datos II](/2A1C%20AYED-II)
-      * [Organización del Computador](/2A1C%20ORG-COMP)
+      * [Organización del Computador](/2A1C%20ORG-DEL-COMPUTADOR)
       * [Análisis Numérico I](/2A1C%20ANALISIS-NUMERICO-I)
     * 2C
       * [Introducción a la Logica y la Computación](/2A2C%20INTRO-LOGICA)
