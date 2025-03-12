@@ -5,7 +5,10 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
-## Materias en Curso (0)
+## Materias en Curso (3)
+    * [Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
+    * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
+    * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
 
 ## Materias Completadas (18+2*)
   * Primer Año
@@ -40,9 +43,6 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 ## Materias Restantes (8)
   * Cuarto Año
-    * 1C
-      * Lenguajes Formales y Computabilidad
-      * Modelos y Simulación
     * 2C
       * Lógica
       * Física
