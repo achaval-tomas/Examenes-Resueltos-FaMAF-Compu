@@ -5,12 +5,13 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
-## Materias en Curso (3)
-  * [Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
-  * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
-  * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
 
-## Materias Completadas (18+2*)
+## Materias en Curso (2+1*)
+  * [Física](/4A2C%20FISICA)
+  * [Lógica](/4A2C%20LOGICA)
+  * [*Lenguajes Formales y Computabilidad (final cancelado)](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
+
+## Materias Completadas (20+2*)
   * Primer Año
     * 1C
       * [Matemática Discreta I](/1A1C%20DISCRETA-I)
@@ -38,14 +39,16 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Arquitectura de Computadoras](/3A2C%20ARQUI-DE-COMPUTADORAS)
       * [Bases de Datos](/3A2C%20BASES-DE-DATOS)
       * [Ingeniería del Software I](/3A2C%20ING-SOFT-I)
+  * Cuarto Año
+    * 1C
+      * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
+  * Optativas
+    * [Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
   * *Otras
     * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
     * Módulo de Idioma Inglés [*(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
-## Materias Restantes (6)
-  * Cuarto Año
-    * 2C
-      * Lógica
-      * Física
+
+## Materias Restantes (4)
   * Quinto Año
     * 1C
       * Lenguajes y Compiladores
