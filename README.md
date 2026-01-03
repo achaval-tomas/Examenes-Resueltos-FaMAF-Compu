@@ -6,12 +6,9 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
 
-## Materias en Curso (2+1*)
-  * [Física](/4A2C%20FISICA)
-  * [Lógica](/4A2C%20LOGICA)
-  * [*Lenguajes Formales y Computabilidad (final cancelado)](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
+## Materias en Curso (0)
 
-## Materias Completadas (20+2*)
+## Materias Aprobadas (23+2*)
   * Primer Año
     * 1C
       * [Matemática Discreta I](/1A1C%20DISCRETA-I)
@@ -41,7 +38,11 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Ingeniería del Software I](/3A2C%20ING-SOFT-I)
   * Cuarto Año
     * 1C
+      * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
       * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
+    * 2C
+      * [Física](/4A2C%20FISICA)
+      * [Lógica](/4A2C%20LOGICA)
   * Optativas
     * [Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
   * *Otras
