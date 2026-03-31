@@ -13,13 +13,13 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
 ## Materias Aprobadas (23+2*)
   * Primer Año (2022)
     * 1C
-      * [Matemática Discreta I](/1A1C%20DISCRETA-I)
+      * [Matemática Discreta I](/1A1C%20MATEMATICA-DISCRETA-I)
       * [Introducción a los Algoritmos](/1A1C%20INTRO-ALGORITMOS)
-      * [Análisis Matemático I](/1A1C%20AN-MAT-I)
+      * [Análisis Matemático I](/1A1C%20ANALISIS-MATEMATICO-I)
     * 2C
       * [Algoritmos y Estructuras de Datos I](/1A2C%20AYED-I)
       * [Álgebra](/1A2C%20ALGEBRA)
-      * [Análisis Matemático II](/1A2C%20AN-MAT-II)
+      * [Análisis Matemático II](/1A2C%20ANALISIS-MATEMATICO-II)
   * Segundo Año (2023)
     * 1C
       * [Algoritmos y Estructuras de Datos II](/2A1C%20AYED-II)
@@ -31,9 +31,9 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Probabilidad y Estadística](/2A2C%20PROB-Y-ESTADISTICA)
   * Tercer Año (2024)
     * 1C
-      * [Paradigmas de Programación](/3A1C%20PARADIGMAS)
+      * [Paradigmas de Programación](/3A1C%20PARADIGMAS-DE-PROGRAMACION)
       * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SISTEMAS)
-      * [Matemática Discreta II](/3A1C%20DISCRETA-II)
+      * [Matemática Discreta II](/3A1C%20MATEMATICA-DISCRETA-II)
     * 2C
       * [Arquitectura de Computadoras](/3A2C%20ARQUI-DE-COMPUTADORAS)
       * [Bases de Datos](/3A2C%20BASES-DE-DATOS)
