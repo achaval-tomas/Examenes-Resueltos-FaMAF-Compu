@@ -6,9 +6,10 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
 
-## Materias en Curso (2)
+## Materias en Curso (3)
   * [Lenguajes y Compiladores](/5A1C%20LENGUAJES-Y-COMPILADORES)
   * [Ingeniería del Software II](/5A1C%20ING-SOFT-II)
+  * [Sistemas de Tiempo Real (Optativa II)](/5A1C%20SIST-DE-TIEMPO-REAL%20(Optativa%20II))
 ## Materias Aprobadas (23+2*)
   * Primer Año (2022)
     * 1C
@@ -44,7 +45,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
     * 1C
       * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
       * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
-      * [(Optativa) Computación Paralela](/4A1C%20COMPUTACION-PARALELA%20(optativa))
+      * [Computación Paralela (Optativa I)](/4A1C%20COMPUTACION-PARALELA%20(Optativa%20I))
     * 2C
       * [Física](/4A2C%20FISICA)
       * [Lógica](/4A2C%20LOGICA)
@@ -55,6 +56,5 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
 ## Materias Restantes (2)
   * Quinto Año
     * 2C
-      * Optativas (1)
       * Trabajo Especial
 </strong>
