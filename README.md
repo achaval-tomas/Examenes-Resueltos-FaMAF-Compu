@@ -7,50 +7,50 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
 <strong>
 
 ## Materias en Curso (3)
-  * [Lenguajes y Compiladores](/5A1C%20LENGUAJES-Y-COMPILADORES)
-  * [Ingeniería del Software II](/5A1C%20ING-SOFT-II)
-  * [Sistemas de Tiempo Real (Optativa II)](/5A1C%20SIST-DE-TIEMPO-REAL%20(Optativa%20II))
+  * [Lenguajes y Compiladores](/5A1C%20Lenguajes%20y%20Compiladores)
+  * [Ingeniería del Software II](/5A1C%20Ingenieria%20del%20Software%20II)
+  * [Sistemas de Tiempo Real (Optativa II)](/5A1C%20Sistemas%20de%20Tiempo%20Real%20(Optativa%20II))
 ## Materias Aprobadas (23+2*)
   * Primer Año (2022)
     * 1C
-      * [Matemática Discreta I](/1A1C%20MATEMATICA-DISCRETA-I)
-      * [Introducción a los Algoritmos](/1A1C%20INTRO-ALGORITMOS)
-      * [Análisis Matemático I](/1A1C%20ANALISIS-MATEMATICO-I)
+      * [Matemática Discreta I](/1A1C%20Matematica%20Discreta%20I)
+      * [Introducción a los Algoritmos](/1A1C%20Introduccion%20a%20los%20Algoritmos)
+      * [Análisis Matemático I](/1A1C%20Analisis%20Matematico%20I)
     * 2C
-      * [Algoritmos y Estructuras de Datos I](/1A2C%20AYED-I)
-      * [Álgebra](/1A2C%20ALGEBRA)
-      * [Análisis Matemático II](/1A2C%20ANALISIS-MATEMATICO-II)
+      * [Algoritmos y Estructuras de Datos I](/1A2C%20Algoritmos%20y%20Estructuras%20de%20Datos%20I)
+      * [Álgebra](/1A2C%20Algebra)
+      * [Análisis Matemático II](/1A2C%20Analisis%20Matematico%20II)
   * Segundo Año (2023)
     * 1C
-      * [Algoritmos y Estructuras de Datos II](/2A1C%20AYED-II)
-      * [Organización del Computador](/2A1C%20ORG-DEL-COMPUTADOR)
-      * [Análisis Numérico I](/2A1C%20ANALISIS-NUMERICO-I)
+      * [Algoritmos y Estructuras de Datos II](/2A1C%20Algoritmos%20y%20Estructuras%20de%20Datos%20II)
+      * [Organización del Computador](/2A1C%20Organizacion%20del%20Computador)
+      * [Análisis Numérico I](/2A1C%20Analisis%20Numerico%20I)
     * 2C
-      * [Introducción a la Logica y la Computación](/2A2C%20INTRO-LOGICA)
-      * [Sistemas Operativos](/2A2C%20SISTEMAS-OPERATIVOS)
-      * [Probabilidad y Estadística](/2A2C%20PROB-Y-ESTADISTICA)
+      * [Introducción a la Logica y la Computación](/2A2C%20Introduccion%20a%20la%20Logica%20y%20la%20Computacion)
+      * [Sistemas Operativos](/2A2C%20Sistemas%20Operativos)
+      * [Probabilidad y Estadística](/2A2C%20Probabilidad%20y%20Estadistica)
   * Tercer Año (2024)
     * 1C
-      * [Paradigmas de Programación](/3A1C%20PARADIGMAS-DE-PROGRAMACION)
-      * [Redes y Sistemas Distribuidos](/3A1C%20REDES-Y-SISTEMAS)
-      * [Matemática Discreta II](/3A1C%20MATEMATICA-DISCRETA-II)
+      * [Paradigmas de Programación](/3A1C%20Paradigmas%20de%20Programacion)
+      * [Redes y Sistemas Distribuidos](/3A1C%20Redes%20y%20Sistemas%20Distribuidos)
+      * [Matemática Discreta II](/3A1C%20Matematica%20Discreta%20II)
     * 2C
-      * [Arquitectura de Computadoras](/3A2C%20ARQUI-DE-COMPUTADORAS)
-      * [Bases de Datos](/3A2C%20BASES-DE-DATOS)
-      * [Ingeniería del Software I](/3A2C%20ING-SOFT-I)
+      * [Arquitectura de Computadoras](/3A2C%20Arquitectura%20de%20Computadoras)
+      * [Bases de Datos](/3A2C%20Bases%20de%20Datos)
+      * [Ingeniería del Software I](/3A2C%20Ingenieria%20del%20Software%20I)
 
 2025: Analista en Computación y suplente de segundo escolta. Promedio 9.61
 
   * Cuarto Año (2025)
     * 1C
-      * [Lenguajes Formales y Computabilidad](/4A1C%20LENG-FORM-Y-COMPUTABILIDAD)
-      * [Modelos y Simulación](/4A1C%20MODELOS-Y-SIMULACION)
-      * [Computación Paralela (Optativa I)](/4A1C%20COMPUTACION-PARALELA%20(Optativa%20I))
+      * [Lenguajes Formales y Computabilidad](/4A1C%20Lenguajes%20Formales%20y%20Computabilidad)
+      * [Modelos y Simulación](/4A1C%20Modelos%20y%20Simulacion)
+      * [Computación Paralela (Optativa I)](/4A1C%20Computacion%20Paralela%20(Optativa%20I))
     * 2C
-      * [Física](/4A2C%20FISICA)
-      * [Lógica](/4A2C%20LOGICA)
+      * [Física](/4A2C%20Fisica)
+      * [Lógica](/4A2C%20Logica)
   * *Otras
-    * [Curso de Nivelación](/0A0C%20CURSO-DE-NIVELACION)
+    * [Curso de Nivelación](/0A0C%20Curso%20de%20Nivelacion)
     * [Módulo de Idioma Inglés *(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 
 ## Materias Restantes (2)
