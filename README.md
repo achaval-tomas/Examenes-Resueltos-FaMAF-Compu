@@ -53,6 +53,8 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
     * [Curso de Nivelación](/0A0C%20Curso%20de%20Nivelacion)
     * [Módulo de Idioma Inglés *(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
 
+2026: Primer escolta. Promedio 9.65
+
 ## Materias Restantes (1)
   * Quinto Año
     * 2C
