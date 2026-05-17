@@ -39,7 +39,7 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Bases de Datos](/3A2C%20Bases%20de%20Datos)
       * [Ingeniería del Software I](/3A2C%20Ingenieria%20del%20Software%20I)
 
-2025: Analista en Computación y suplente de segundo escolta. Promedio 9.61
+2025: [Analista en Computación](/Extras/Diploma%20Analista.pdf) y [suplente de segundo escolta](/Extras/RD-2025.pdf).
 
   * Cuarto Año (2025)
     * 1C
@@ -51,9 +51,9 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
       * [Lógica](/4A2C%20Logica)
   * *Otras
     * [Curso de Nivelación](/0A0C%20Curso%20de%20Nivelacion)
-    * [Módulo de Idioma Inglés *(Equivalencia)*](https://drive.google.com/file/d/1py9eOk8cX9n2AoSI1dNmnSV2TtG5gPRN/view?usp=sharing)
+    * [Módulo de Idioma Inglés *(Equivalencia)*](/Extras/FCE_certificado.pdf)
 
-2026: Primer escolta. Promedio 9.65
+2026: [Primer escolta](/Extras/RD-2026.pdf).
 
 ## Materias Restantes (1)
   * Quinto Año
