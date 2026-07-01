@@ -6,11 +6,9 @@ Repo con todos **_mis_ laboratorios completos**: [**Labs-Completos-Famaf-Compu**
 Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**](https://github.com/ExamenesViejos-FaMAF-Computacion)
 <strong>
 
-## Materias en Curso (3)
-  * [Lenguajes y Compiladores](/5A1C%20Lenguajes%20y%20Compiladores)
-  * [Ingeniería del Software II](/5A1C%20Ingenieria%20del%20Software%20II)
+## Materias en Curso (1)
   * [Sistemas de Tiempo Real (Optativa II)](/5A1C%20Sistemas%20de%20Tiempo%20Real%20(Optativa%20II))
-## Materias Aprobadas (23+2*)
+## Materias Aprobadas (25+2*)
   * Primer Año (2022)
     * 1C
       * [Matemática Discreta I](/1A1C%20Matematica%20Discreta%20I)
@@ -49,11 +47,17 @@ Repo con **enunciados** de más exámenes: [**ExamenesViejos-FaMAF-Computacion**
     * 2C
       * [Física](/4A2C%20Fisica)
       * [Lógica](/4A2C%20Logica)
+
+2026: [Primer escolta](/Extras/RD-2026.pdf).
+
+  * Quinto Año (2026)
+    * 1C
+      * [Lenguajes y Compiladores](/5A1C%20Lenguajes%20y%20Compiladores)
+      * [Ingeniería del Software II](/5A1C%20Ingenieria%20del%20Software%20II)
   * *Otras
     * [Curso de Nivelación](/0A0C%20Curso%20de%20Nivelacion)
     * [Módulo de Idioma Inglés *(Equivalencia)*](/Extras/FCE_certificado.pdf)
 
-2026: [Primer escolta](/Extras/RD-2026.pdf).
 
 ## Materias Restantes (1)
   * Quinto Año
